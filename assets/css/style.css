@@ -1,0 +1,17 @@
+h1, ul, li {
+    display: inline-block;
+    background-color:#ffffff;
+    border-color:#ccccc;
+    font-family:'Georgia', Times,'Times New Roman', serif;
+}
+
+ul {
+    float: right;
+}
+#name{
+    background-color:#4aaaa5;
+    color: white;
+    padding: 10px;
+    border-bottom: 2px;
+
+}
